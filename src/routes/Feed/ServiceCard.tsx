@@ -6,26 +6,6 @@ import { Emoji } from "src/components/Emoji"
 
 const ServiceCard: React.FC = () => {
   return null
-  return (
-    <>
-      <StyledTitle>
-        <Emoji>🌟</Emoji> Service
-      </StyledTitle>
-      <StyledWrapper>
-        {CONFIG.projects.map((project, idx) => (
-          <a
-            key={idx}
-            href={`${project.href}`}
-            rel="noreferrer"
-            target="_blank"
-          >
-            <AiFillCodeSandboxCircle className="icon" />
-            <div className="name">{CONFIG.projects[0].name}</div>
-          </a>
-        ))}
-      </StyledWrapper>
-    </>
-  )
 }
 
 export default ServiceCard
