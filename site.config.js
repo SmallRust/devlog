@@ -16,7 +16,7 @@ const CONFIG = {
     description: "welcome to SmallRust!",
   },
 
-  projects: null,
+  projects: false,
 
   // CONFIG configration (required)
   link: "https://blog.smallrust.io",
