@@ -16,6 +16,8 @@ const CONFIG = {
     description: "welcome to SmallRust!",
   },
 
+  projects: null,
+
   // CONFIG configration (required)
   link: "https://blog.smallrust.io",
   since: 2024, // If leave this empty, current year will be used.
