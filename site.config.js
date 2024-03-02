@@ -10,12 +10,13 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
-  projects: [],
   // blog setting (required)
   blog: {
     title: "SmallRust Update Log",
     description: "welcome to SmallRust!",
   },
+
+  projects: false,
 
   // CONFIG configration (required)
   link: "https://blog.smallrust.io",
