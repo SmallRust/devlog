@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "SmallRust",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Server Owner",
-    bio: "",
+    image: "https://i.ibb.co/JdHPn6D/Transparent-Logo-Two-Outlines-128p.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Rust PVE server!",
+    bio: "Join now for a fun and unique PVE experience! Type connect eu.smallrust.io in your Rust console to join!",
     email: "contact@smallrust.store",
     linkedin: "",
     github: "",
